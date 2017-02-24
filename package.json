@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rttomlinson/assignment_githuh.git"
+    "url": "git+https://github.com/rttomlinson/github_api_wrapper"
   },
   "author": "Renzo Tomlinson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rttomlinson/assignment_githuh/issues"
+    "url": "https://github.com/rttomlinson/github_api_wrapper/issues"
   },
-  "homepage": "https://github.com/rttomlinson/assignment_githuh#readme",
+  "homepage": "https://github.com/rttomlinson/github_api_wrapper#readme",
   "dependencies": {
     "request": "^2.79.0"
   },
