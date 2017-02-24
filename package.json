@@ -1,0 +1,24 @@
+{
+  "name": "@rttomlinson/githuh_wrapper",
+  "version": "1.0.0",
+  "description": "Github API Wrapper.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rttomlinson/assignment_githuh.git"
+  },
+  "author": "Renzo Tomlinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rttomlinson/assignment_githuh/issues"
+  },
+  "homepage": "https://github.com/rttomlinson/assignment_githuh#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "bin": {
+  }
+}
